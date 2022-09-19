@@ -1,0 +1,12 @@
+*/target/*
+*/target/**
+/target/
+target/
+.project
+.gitignore
+.classpath
+.settings
+*.log
+/bin/
+bin/
+.idea/
