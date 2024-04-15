@@ -165,7 +165,7 @@
         <repository>
             <id>artifactory0001</id>
             <name>artifactory0001-releases</name>
-            <url>http://artifactory.metrosystems.net/artifactory/libs-release-local</url>
+            <url>https://artifactory.metro.digital/artifactory/libs-release-local</url>
         </repository>
     </distributionManagement>
     <scm>
